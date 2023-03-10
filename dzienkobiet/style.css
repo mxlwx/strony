@@ -1,0 +1,77 @@
+body {
+	background: #fddeff;
+	margin: 100px;  
+	max-width: auto; 
+	font-family: 'Century Gothic';
+}
+
+.top {
+	background: #b374af;
+	border: 3px solid #000000;
+	margin: 30px 0px;
+	text-align: center;
+} 
+
+
+.slay {
+	column-count: 3;
+	column-gap: 20px;
+	column-rule:1px solid #D1D1D1;
+}
+
+
+.naglowek {
+	color: #6b1d1d;
+	font-size: 18px;
+}
+
+ul, ul li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+	font-size: 12px;
+}
+
+ul li {
+	width: 200px;
+	border-width: 1px;
+	border-style: dotted;
+	border-color: #4f1e40;
+
+}
+
+ul a:link, ul a:visited {
+	display: block;
+	width: 169px;
+	text-decoration: none;
+	padding: 5px 10px 5px 20px;
+	font-weight: bold;
+	background-color: #b374af;
+	color: #000000;
+	border-left: 1px solid #ffffff;}
+
+ul a:hover {
+	background-color: #1a0312;
+	background-position: -16px -49px;
+	color: #ffffff;
+}
+
+.element{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.jezus{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+			
+
+.line {
+  text-decoration: line-through;
+}
