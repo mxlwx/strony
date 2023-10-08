@@ -1,0 +1,30 @@
+body {
+	background-color: #2b2247;
+	color: #d3c4ff;
+	font-size: medium;
+	font-family:"Sofia";
+}
+
+.top {
+	text-align: center;
+}
+
+p {
+	font-size: large;
+}
+
+.element{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.obrazki{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
