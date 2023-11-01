@@ -1,0 +1,25 @@
+body {
+	background-image: url('halloween.jpg');
+	font-size: large;
+	font-family:"Times new roman";
+	color: #ffffff;
+}
+
+section {
+	margin: 20px 40px;
+	padding: 20px;
+	background-color: #1c0d00;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: justify;
+	align-items: center;
+}
+
+h1 {
+	font-family:"Sofia";
+}
+p {
+	text-align: center;
+}
