@@ -1,0 +1,56 @@
+* {
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Verdana;
+}
+
+td {
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  border: dotted 1px #000;
+}
+
+.sq1 {
+  background-color: #f7d9fa;
+}
+
+.sq2 {
+  background-color: #f482ff;
+}
+
+.sq3 {
+  background-color: #9e00ad;
+}
+
+.sq4 {
+  background-color: #9d75a1;
+}
+
+.sq5 {
+  background-color: #703775;
+}
+
+.sq6 {
+  background-color: #54055c;
+}
+
+.sq7 {
+  background-color: #bdaabf;
+}
+
+.sq8 {
+  background-color: #48344a;
+}
+
+.sq9 {
+  background-color: #230326;
+}
+
+.b {
+	color: #fff;
+}
+
+.c {
+	color: #000;
+}
