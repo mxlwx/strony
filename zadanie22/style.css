@@ -1,0 +1,50 @@
+body{
+margin-left:auto;
+margin-right:auto;
+}
+header { 
+background-color: #ffbfe8; 
+height: 50px; 
+display: grid;
+place-content: center;
+} 
+nav { 
+background-color: #e66cb9; 
+height: 800px; 
+width: 30%; 
+float: left;
+display: grid;
+place-content: center;
+} 
+main { 
+background-color: #ba79a2; 
+height: 800px; 
+width: 40%; 
+float: left;
+display: grid;
+place-content: center;
+} 
+aside {
+background-color: #ff2eb2;
+height: 800px;
+width: 30%;
+float: left;
+display: grid;
+place-content: center;
+}
+footer { 
+background-color: #ffbfe8; 
+height: 50px;
+clear: both;
+display: grid;
+place-content: center; 
+}
+
+p{
+margin: 0px;
+padding: 0px;
+color: #301e2a;
+font-size: 50px;
+font-family: "Madimi One", sans-serif;
+font-weight: 400;
+}
