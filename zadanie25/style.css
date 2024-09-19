@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Calibri, sans-serif;
+    background-color: #ffffff;
+}
+
+table {
+    border-collapse: collapse;
+    font-weight: bold;
+}
+
+td {
+    border: 1px solid #d9dadf;
+    background-color: #ffffff;
+}
+
+.liczba {
+	text-align: right;
+}
+
+th {
+    background-color: #9ab672;
+    text-align: left;
+}
+
+td,th {
+    color: #000000;
+    width: 100px;
+    padding: 2px;
+}
+
+img {
+    width: 600px;
+}
