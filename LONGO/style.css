@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+}
+
+#logo {
+    width: 100%;
+    margin: 10px 0;
+    background-color: #f542c8;
+    color: #ffc2f0;
+    text-align: center;
+    text-shadow: 5px 5px 5px #870867;
+    border: solid 4px #ffc2f0;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
