@@ -1,0 +1,67 @@
+body {
+    font-family: Jazz LET, fantasy;
+    background-color: rosybrown;
+    display: flex;
+    justify-content: center;
+}
+
+#kalendarz {
+    width: 300px;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.linia {
+    border: 2px solid black;
+    display: flex;
+    width: 300px;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+#rok {
+    font-size: 50px;
+}
+
+#msc {
+    font-size: 30px;
+    height: 30px;
+}
+
+#dzien {
+    font-size: 60px;
+}
+
+#tyg {
+    font-size: 25px;
+}
+
+#godz {
+    font-size: 40px;
+}
+
+.ozdoba {
+    height: 20px;
+    width: 300px;
+    background-color: red;
+    padding: 10px 15px;
+    border: 2px solid black;
+    display: flex; /* Ustawia elementy wewnętrzne obok siebie */
+    justify-content: space-evenly; /* Równomiernie rozmieszcza elementy */
+}
+
+.kolka {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
